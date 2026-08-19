@@ -19,13 +19,13 @@ Todo o fluxo foi desenvolvido simulando um cenário real de pipeline de dados ut
 
 ## Objetivos
 
-* Praticar Engenharia de Dados ponta a ponta
-* Modelagem dimensional (Star Schema)
-* Construção de Banco de Dados Relacional
-* Consultas SQL complexas
-* Desenvolvimento de APIs REST (Backend)
-* Storytelling com dados
-* Visualização de indicadores via Web (Frontend)
+*   Praticar modelagem dimensional avançada (Star Schema) no ambiente PostgreSQL.
+*   Desenvolver uma pipeline Full-Stack completa: Banco de Dados -> Backend (API) -> Frontend.
+*   Dominar consultas SQL analíticas complexas e agregações de dados esportivos.
+*   Aplicar conceitos de interatividade assíncrona (Fetch API) no Frontend.
+*   Desenvolver visualizações de dados dinâmicas e responsivas com Chart.js.
+*   Aplicar técnicas de Storytelling com dados aplicados à carreira de um atleta de elite.
+*   Implementar a funcionalidade de Filtro Cruzado (Cross-filtering) entre múltiplos gráficos.
 
 ---
 
